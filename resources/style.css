@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  font-family: verdana;
+}
+
+.header {
+  font-weight: normal;
+  font-size: 50px;
+  color:white;
+  text-align: center;
+}
+
+.link {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.camp {
+  font-size: 21px;
+  color:grey;
+  text-align: center;
+}
